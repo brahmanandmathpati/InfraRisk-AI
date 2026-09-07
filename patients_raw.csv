@@ -1,0 +1,11 @@
+patient_id,name,age,department,consultation_fee,visit_date
+P101,  priya sharma ,34,Cardiology,"1,250.50",2026-08-01
+P102,RAHUL VERMA,41,Orthopedics,900,2026-08-01
+P103,anita desai,29,Cardiology,1100.00,2026-08-02
+P104,Vikram Rao,abc,Dermatology,750,2026-08-02
+P105,Sneha Kulkarni,52,Cardiology,"1,450.00",2026-08-03
+P106,Amit Joshi,38,,850,2026-08-03
+P107,Meera Nair,45,Orthopedics,,2026-08-04
+P103,anita desai,29,Cardiology,1100.00,2026-08-02
+P108,Kiran Rao,61,General,600,2026-08-04
+P109,Divya Menon,27,Dermatology,980.25,2026-08-05
